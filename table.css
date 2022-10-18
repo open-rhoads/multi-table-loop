@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+table {
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    margin: 0;
+    
+}
+.x {
+    color: pink;
+}
+.num1 {
+    color: blue;
+}
+.num2 {
+    color: red;
+}
+.squares {
+    color: green;
+}
+.bold {
+    font-weight: bold;
+}
